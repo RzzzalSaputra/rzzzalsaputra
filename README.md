@@ -51,5 +51,5 @@
 </p>
 
 <p align="center">
-<img src="/rzzzalsaputra/img/Itsuki.jpeg" width="48%" style="border-radius: 10px;" />
+<img src="/img/Itsuki.jpeg" width="48%" style="border-radius: 10px;" />
 </p>
